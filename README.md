@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **CodeVolt-owned fork.** This repository is a fork of [`langchain-ai/langgraph`](https://github.com/langchain-ai/langgraph), retained by CodeVolt only for bounded upstream contribution and evaluation work. Project governance, releases, support, and maintenance remain with the upstream maintainers. The upstream README is preserved below.
+
 <div align="center">
   <a href="https://www.langchain.com/langgraph">
     <picture>
